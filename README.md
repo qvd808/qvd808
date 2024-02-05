@@ -10,8 +10,9 @@ I'm Quang Vinh Dang, a passionate learner and coder. My favorite quote is "With 
 ### About Me
 
 - Love creating impactful projects.
-- Currently exploring the realms of lower-level programming.
-- Building a virtual assistant 🤖 and diving into the fascinating world of reinforcement learning to enhance my gaming skills 😎.
+- Currently exploring the realms of **lower-level programming**.
+- Building a virtual assistant 🤖 and diving into the fascinating world of **reinforcement learning** to enhance my gaming skills 😎.
+- Programming with **🐍Python, JavaScript, TypeScript, 🦀Rust, C**. 
 
 ### Discover More
 
