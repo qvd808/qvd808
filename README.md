@@ -16,7 +16,7 @@ I'm Quang Vinh Dang, a passionate learner and coder. My favorite quote is "With 
 
 ### Discover More
 
-- Check out my [Resume](https://drive.google.com/file/d/16vBXM2ax0YsY1SsbebflajdewYxFxVAz/view?usp=sharing).
+- Check out my [Resume](https://drive.google.com/file/d/1IM4YwjO-NO8uF1Qor7D95fOap3vGtt5V/view?usp=drive_link).
 - Explore my [personal website](https://qvd808.github.io/portfolio/).
 
 ### What's On My Mind 🤔
