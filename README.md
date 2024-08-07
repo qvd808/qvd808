@@ -1,4 +1,4 @@
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quang-vinh-dang-788ab0194/)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quang-vinh-dang-788ab0194/)
 ![](https://komarev.com/ghpvc/?username=qvd808&label=PROFILE+VIEWS)
 
 ---
