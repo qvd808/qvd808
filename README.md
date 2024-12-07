@@ -1,4 +1,51 @@
+  <!-- Animated Galaxy ASCII -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460);
+            color: white;
+            font-family: 'Roboto Mono', monospace;
+        }
+        .galaxy-container {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+        .star {
+            position: absolute;
+            background-color: rgba(255,255,255,0.8);
+            border-radius: 50%;
+        }
+        .ascii-text {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            font-size: 16px;
+            white-space: pre;
+            animation: jump 1.5s ease-in-out infinite alternate;
+            text-shadow: 0 0 10px rgba(255,255,255,0.5);
+        }
+        @keyframes jump {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-15px); }
+        }
+    </style>
+</head>
 <div align="center">
+
   <!-- Spacing added with line breaks -->
   <br>
   
@@ -29,15 +76,20 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=qvd808&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </p>
-</div>
 
-```
+<body>
+    <div class="galaxy-container">
+        <div class="stars" id="starsContainer"></div>
+        <pre class="ascii-text">
  _____         _           _             _    
 |_   _|__  ___| |__    ___| |_ __ _  ___| | __
   | |/ _ \/ __| '_ \  / __| __/ _` |/ __| |/ /
   | |  __/ (__| | | | \__ \ || (_| | (__|   < 
   |_|\___|\___|_| |_| |___/\__\__,_|\___|_|\_\
-```
+        </pre>
+    </div>
+
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
