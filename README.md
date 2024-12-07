@@ -31,7 +31,13 @@
   </p>
 </div>
 
-## 🚀 Tech Stack
+```
+ _____         _           _             _    
+|_   _|__  ___| |__    ___| |_ __ _  ___| | __
+  | |/ _ \/ __| '_ \  / __| __/ _` |/ __| |/ /
+  | |  __/ (__| | | | \__ \ || (_| | (__|   < 
+  |_|\___|\___|_| |_| |___/\__\__,_|\___|_|\_\
+```
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
