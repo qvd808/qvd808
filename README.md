@@ -1,49 +1,3 @@
-  <!-- Animated Galaxy ASCII -->
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460);
-            color: white;
-            font-family: 'Roboto Mono', monospace;
-        }
-        .galaxy-container {
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            overflow: hidden;
-            padding: 20px;
-        }
-        .stars {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 1;
-        }
-        .star {
-            position: absolute;
-            background-color: rgba(255,255,255,0.8);
-            border-radius: 50%;
-        }
-        .ascii-text {
-            position: relative;
-            z-index: 2;
-            text-align: center;
-            font-size: 16px;
-            white-space: pre;
-            animation: jump 1.5s ease-in-out infinite alternate;
-            text-shadow: 0 0 10px rgba(255,255,255,0.5);
-        }
-        @keyframes jump {
-            0% { transform: translateY(0); }
-            100% { transform: translateY(-15px); }
-        }
-    </style>
-</head>
 <div align="center">
 
   <!-- Spacing added with line breaks -->
@@ -68,7 +22,7 @@
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
     </a>
     <a href="mailto:qvd@sfu.ca">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Resume"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
@@ -77,17 +31,9 @@
     <img src="https://komarev.com/ghpvc/?username=qvd808&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </p>
 
-<body>
-    <div class="galaxy-container">
-        <div class="stars" id="starsContainer"></div>
-        <pre class="ascii-text">
- _____         _           _             _    
-|_   _|__  ___| |__    ___| |_ __ _  ___| | __
-  | |/ _ \/ __| '_ \  / __| __/ _` |/ __| |/ /
-  | |  __/ (__| | | | \__ \ || (_| | (__|   < 
-  |_|\___|\___|_| |_| |___/\__\__,_|\___|_|\_\
-        </pre>
-    </div>
+  <p align="center">
+    <img src="https://ascii-galaxy.vercel.app/api" alt="Galaxy image"/>
+  </p>
 
 </div>
 
@@ -115,14 +61,14 @@ As a passionate software developer, I thrive on creating impactful solutions tha
 - 🤖 Developing a cutting-edge virtual assistant
 - 🧠 Exploring reinforcement learning
 - 💻 Diving deep into lower-level programming
-- 🚀 Begging for internship opportunities in 2025
+- 🚀 Seeking internship opportunities in 2025
 
 ### 🌟 Personal Motto
 > "With great power comes great responsibility" - A belief that guides my coding philosophy and approach to technology.
 
 ### 🖥️ Coding Sanctuary: Neovim <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" height="30" style="vertical-align: middle; margin-left: 2px;"/>
 
-> I like neovim because neovim is the best and people who code in neovim is the best 🚀
+> I like neovim because neovim is the best and people who code in neovim are the best 🚀
 
 ## 📊 My GitHub Stats
 
