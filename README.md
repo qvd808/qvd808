@@ -32,7 +32,7 @@
   </p>
 
   <p align="center">
-    <img src="http://localhost:3000/api?width=800&height=150" alt="Galaxy image"/>
+    <img src="https://ascii-galaxy.vercel.app/api" alt="Galaxy image"/>
   </p>
 
 </div>
