@@ -2,45 +2,42 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <title>Galaxy ASCII Text</title>
     <style>
         body {
-            background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460);
-            color: white;
-            font-family: 'Roboto Mono', monospace;
-        }
-        .galaxy-container {
-            position: relative;
+            margin: 0;
+            height: 100vh;
             display: flex;
             justify-content: center;
             align-items: center;
+            background: linear-gradient(45deg, #000033, #000066, #000099);
             overflow: hidden;
-            padding: 20px;
+            font-family: monospace;
+            color: white;
+        }
+        pre {
+            font-size: 20px;
+            text-align: center;
+            animation: float 2s ease-in-out infinite alternate;
+            text-shadow: 0 0 10px rgba(255,255,255,0.5);
+        }
+        @keyframes float {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-10px); }
         }
         .stars {
-            position: absolute;
+            position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            z-index: 1;
+            pointer-events: none;
         }
         .star {
             position: absolute;
-            background-color: rgba(255,255,255,0.8);
+            background-color: white;
             border-radius: 50%;
-        }
-        .ascii-text {
-            position: relative;
-            z-index: 2;
-            text-align: center;
-            font-size: 16px;
-            white-space: pre;
-            animation: jump 1.5s ease-in-out infinite alternate;
-            text-shadow: 0 0 10px rgba(255,255,255,0.5);
-        }
-        @keyframes jump {
-            0% { transform: translateY(0); }
-            100% { transform: translateY(-15px); }
         }
     </style>
 </head>
