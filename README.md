@@ -32,7 +32,7 @@
   </p>
 
   <p align="center">
-    <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150" alt="Galaxy image"/>
+    <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150&text=Techstack" alt="Galaxy image"/>
   </p>
 
 </div>
