@@ -54,30 +54,24 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💡 About Me
+I do what I love, and I love what I'm currently doing. I'm simply trying to get better.
+Focus: Low-Level Programming & C 
+## 🎯 Current Goal for 2025 
 
-As a passionate software developer, I thrive on creating impactful solutions that push the boundaries of technology. My journey is driven by continuous learning and a commitment to making a positive difference through code.
+I'm on an exciting journey to push the boundaries of technology and explore the depths of programming and hardware. Here’s what’s on my radar for the year ahead:
 
-### 🔬 Current Focus
-- 🤖 Developing a cutting-edge virtual assistant
-- 🧠 Exploring reinforcement learning
-- 💻 Diving deep into lower-level programming
-- 🚀 Seeking internship opportunities in 2025
+- 💻 Diving Deep into Lower-Level Programming ⏳
 
-### 🌟 Personal Motto
-> "With great power comes great responsibility" - A belief that guides my coding philosophy and approach to technology.
+- ⌚ Building My Own Custom Hardware Watch ⏳
 
-### 🖥️ Coding Sanctuary: Neovim <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" height="30" style="vertical-align: middle; margin-left: 2px;"/>
+- 🧠 Learning Zig ⏳
 
-> I like neovim because neovim is the best and people who code in neovim are the best 🚀
+- 🚀 Seeking Internship Opportunities in 2025 ✅
+  
 
-## 📊 My GitHub Stats
+## 🌟 Personal Motto
+"With great power comes great responsibility" - A belief that guides my coding philosophy and approach to technology.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qvd808&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-</div>
+## 🖥️ Coding Sanctuary: Neovim 
 
-## 🏆 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/qvd808" alt="LeetCode Stats"/>
-</div>
+I like neovim because neovim is the best and people who code in neovim are the best 🚀
