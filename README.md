@@ -55,10 +55,10 @@
 
 ## 💡 About Me
 I do what I love, and I love what I'm currently doing. I'm simply trying to get better.
-Focus: Low-Level Programming & C 
-## 🎯 Current Goal for 2025 
+Focus: Low-Level Programming & C Programming language
+## 🎯 Current Goal for 2025
 
-I'm on an exciting journey to push the boundaries of technology and explore the depths of programming and hardware. Here’s what’s on my radar for the year ahead:
+I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2025 are:
 
 - 💻 Diving Deep into Lower-Level Programming ⏳
 
