@@ -56,17 +56,15 @@
 ## 💡 About Me
 I do what I love, and I love what I'm currently doing. I'm simply trying to get better.
 Focus: Low-Level Programming & C Programming language
-## 🎯 Current Goal for 2025
+## 🎯 Current Goal for 2026
 
-I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2025 are:
+I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2026 are:
 
-- 💻 Diving Deep into Lower-Level Programming ⏳
-
+- 💻 Build a CPU on my FPGA
+    - Simple one like Nand2Tetris project
+    - Build one on Altera FPGA with my own design and open source it
 - ⌚ Building My Own Custom Hardware Watch ⏳
-
 - 🧠 Learning Zig ⏳
-
-- 🚀 Seeking Internship Opportunities in 2025 ✅
   
 
 ## 🌟 Personal Motto
