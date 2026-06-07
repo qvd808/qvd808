@@ -54,22 +54,22 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💡 About Me
-I do what I love, and I love what I'm currently doing. I'm simply trying to get better.
-Focus: Low-Level Programming & C Programming language
+I do what I love, and I love what I'm currently doing. If I’m not coding, I start looking around and remembering I could be coding instead.
+
+Focus: Formal Verification & Compiler design
 ## 🎯 Current Goal for 2026
 
 I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2026 are:
 
-- 💻 Build a CPU on my FPGA
-    - Simple one like Nand2Tetris project
-    - Build one on Altera FPGA with my own design and open source it
-- ⌚ Building My Own Custom Hardware Watch ⏳
+- 💻 Build a CPU on my FPGA - Finished almost
+- Building a Lexer + Parser for Dafny and analysis the code because somehow this super AGI seems to be not able to do by itself
+- Building something relate to GNN
 - 🧠 Learning Zig ⏳
-  
 
 ## 🌟 Personal Motto
-"With great power comes great responsibility" - A belief that guides my coding philosophy and approach to technology.
+"With great power comes great responsibility."  
+— Mostly used to justify why my code needs tests
 
 ## 🖥️ Coding Sanctuary: Neovim 
-
-I like neovim because neovim is the best and people who code in neovim are the best 🚀
+Yes, I use Neovim.
+Yes, I will tell you about it even if you don't ask me.
