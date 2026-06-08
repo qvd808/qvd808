@@ -61,7 +61,7 @@ Focus: Formal Verification & Compiler design
 
 I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2026 are:
 
-- 💻 Build a CPU on my FPGA - Finished almost
+- 💻 Build a CPU on my FPGA - Finished almost. The last requirement is money because I am broke
 - Building a Lexer + Parser for Dafny and analysis the code because somehow this super AGI seems to be not able to do by itself
 - Building something relate to GNN
 - 🧠 Learning Zig ⏳
