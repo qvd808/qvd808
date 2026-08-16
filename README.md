@@ -42,7 +42,7 @@
 
 </div>
 
-## 🔨 Things I built instead of sleeping
+## 🔨 Some projects I built
 
 - **[readme-onclick-animation](https://github.com/qvd808/readme-onclick-animation)** — the reason the image up there can do that. GitHub strips `<script>` out of every README, so this smuggles the animation past it with an edge proxy and a 12-second grudge held in Redis.
 - **[factor_rl](https://github.com/qvd808/factor_rl)** — an agent that learned to factor polynomials by trial and error instead of being handed the algorithm. You can [watch it think](https://qvd808.github.io/factor_rl/), one step at a time.
