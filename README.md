@@ -1,15 +1,28 @@
 <div align="center">
 
-  <!-- Spacing added with line breaks -->
-  <br>
-  
+  <!-- The eyes are watching him. Click, and they stop watching. -->
+  <a href="https://readme-clickable-image.vercel.app/play?back=https://github.com/qvd808&still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/readme-onclick-animation/main/eyes-once.svg">
+    <img src="https://readme-clickable-image.vercel.app/scene?still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/readme-onclick-animation/main/eyes-once.svg" width="100%" alt="A figure stands at the edge of a canyon at night while two glowing eyes watch him and blink. Click it and something falls."/>
+  </a>
+
+  <h3>😐 Try clicking the image above. Calamity will come your way.</h3>
+
+  <p><em>I won't just gaze into the abyss — I'll maintain uncomfortable eye contact with it.</em></p>
+
+  <sub>
+    If you think that was cool, a ⭐ on
+    <a href="https://github.com/qvd808/readme-onclick-animation">readme-onclick-animation</a>
+    (the thing that makes a README image clickable) would genuinely make my day.<br>
+    And if you're hiring, my resume is one badge away 👇 — I need to pay my bills.
+  </sub>
+
+  <br><br>
+
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
 
-  <br>
-  
   <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/quang-vinh-dang-788ab0194/">
@@ -31,32 +44,13 @@
     <img src="https://komarev.com/ghpvc/?username=qvd808&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </p>
 
-  <p align="center">
-    <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150&text=Techstack&font=Standard&fontSize=20&textColor=FFFFFF" alt="Galaxy image"/>
-  </p>
-
 </div>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ## 💡 About Me
-I do what I love, and I love what I'm currently doing. If I’m not coding, I start looking around and remembering I could be coding instead.
+I do what I love, and I love what I'm currently doing. If I'm not coding, I start looking around and remembering I could be coding instead.
 
 Focus: Formal Verification & Compiler design
+
 ## 🎯 Current Goal for 2026
 
 I enjoy learning new topics, and I am currently exploring the depths of programming and hardware. My goals for 2026 are:
@@ -70,6 +64,6 @@ I enjoy learning new topics, and I am currently exploring the depths of programm
 "With great power comes great responsibility."  
 — Mostly used to justify why my code needs tests
 
-## 🖥️ Coding Sanctuary: Neovim 
+## 🖥️ Coding Sanctuary: Neovim
 Yes, I use Neovim.
 Yes, I will tell you about it even if you don't ask me.
