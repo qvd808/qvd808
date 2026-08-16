@@ -4,8 +4,8 @@
   <a id="eyes"></a>
 
   <!-- The eyes are watching him. Click, and they stop watching. -->
-  <a href="https://readme-clickable-image.vercel.app/play?back=https://github.com/qvd808%23user-content-eyes&still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/readme-onclick-animation/main/eyes-once.svg">
-    <img src="https://readme-clickable-image.vercel.app/scene?still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/readme-onclick-animation/main/eyes-once.svg" width="100%" alt="Some clickable image"/>
+  <a href="https://readme-clickable-image.vercel.app/play?back=https://github.com/qvd808%23user-content-eyes&still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-click.svg">
+    <img src="https://readme-clickable-image.vercel.app/scene?still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-click.svg" width="100%" alt="Some clickable image"/>
   </a>
 
   <h3>😐 Try clicking the image above. Calamity will come your way.</h3>
