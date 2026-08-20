@@ -5,7 +5,7 @@
     <img src="https://readme-clickable-image.vercel.app/scene?still=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-idle.svg&play=https://raw.githubusercontent.com/qvd808/qvd808/main/eyes/eyes-click.svg&back=https://github.com/qvd808" width="1100" height="520" alt="Some clickable image"/>
   </a>
 
-  <h3>😐 Try clicking the image above. Calamity will come your way.</h3>
+  <h3> >Try clicking the image above. Calamity will come your way< </h3>
 
   <sub>
     If you think that was cool, a ⭐ on
